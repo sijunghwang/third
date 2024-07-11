@@ -10,4 +10,4 @@
 
 ---
 - ___추가 학습 필요한 부분___
-![깃](./screenshots/깃.png)
+![깃](https://github.com/sijunghwang/third/blob/master/%EA%B9%83.PNG)
